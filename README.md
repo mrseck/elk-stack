@@ -18,7 +18,6 @@ Elastic stack Project 100% made with docker container, TLS secured, with Elastic
 
 ## Requirements
 
-Docker installed
 
 ### Operating System: 
 
